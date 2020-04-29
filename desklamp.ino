@@ -5,7 +5,6 @@ FASTLED_USING_NAMESPACE
 
 // This pattern shows you a rainbowsnake and afterwards it is brighten the desk lamp
 // 
-//
 // Based on example by Mark Kriegsman, December 2014
 
 #if defined(FASTLED_VERSION) && (FASTLED_VERSION < 3001000)
