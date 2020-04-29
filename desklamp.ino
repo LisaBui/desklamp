@@ -3,8 +3,8 @@
 
 FASTLED_USING_NAMESPACE
 
-// This pattern shows you a rainbowsnake and afterwards it dimming the desk lamp
-// slowly up
+// This pattern shows you a rainbowsnake and afterwards it is brighten the desk lamp
+// 
 //
 // Based on example by Mark Kriegsman, December 2014
 
